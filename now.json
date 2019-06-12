@@ -2,7 +2,7 @@
     "version": 2,
     "name": "disqusjs-proxy",
     "alias": [
-        "https://disqus.godu.ink"
+        "https://godu.ink"
     ],
     "routes": [
         {
